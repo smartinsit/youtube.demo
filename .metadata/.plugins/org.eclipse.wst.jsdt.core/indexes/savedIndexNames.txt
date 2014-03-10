@@ -1,0 +1,8 @@
+INDEX VERSION 1.3+/Users/smartins/studies/Java/workspace/REST/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2111457505.index
+1723493710.index
+392081983.index
+437967663.index
+4164836710.index
+2592893427.index
+1795491849.index
